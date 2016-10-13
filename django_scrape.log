@@ -1,0 +1,662 @@
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField gasFutures.tradedate received a naive datetime (2016-06-23 15:46:29) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'2.692', 'volume': u'58,310', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.643', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'53,588', 'Open': u'2.670', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField gasFutures.tradedate received a naive datetime (2016-06-23 15:47:55) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'2.726', 'volume': u'21,104', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.681', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'194,202', 'Open': u'2.699', 'month': u'AUG 16'}
+INFO:root:{'high': u'2.736', 'volume': u'11,280', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.693', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'207,544', 'Open': u'2.713', 'month': u'SEP 16'}
+INFO:root:{'high': u'2.783', 'volume': u'4,019', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.743', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'116,894', 'Open': u'2.763', 'month': u'OCT 16'}
+INFO:root:{'high': u'2.925', 'volume': u'2,319', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.893', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'61,281', 'Open': u'2.906', 'month': u'NOV 16'}
+INFO:root:{'high': u'3.171', 'volume': u'2,093', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.152', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'51,428', 'Open': u'3.152', 'month': u'DEC 16'}
+INFO:root:{'high': u'3.306', 'volume': u'2,510', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.284', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'102,256', 'Open': u'3.300', 'month': u'JAN 17'}
+INFO:root:{'high': u'3.297', 'volume': u'553', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.279', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'26,529', 'Open': u'3.288', 'month': u'FEB 17'}
+INFO:root:{'high': u'3.249', 'volume': u'536', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.230', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'57,570', 'Open': u'3.242', 'month': u'MAR 17'}
+INFO:root:{'high': u'2.980', 'volume': u'632', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.959', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'49,956', 'Open': u'2.979', 'month': u'APR 17'}
+INFO:root:{'high': u'2.951', 'volume': u'204', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.921', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'20,133', 'Open': u'2.924', 'month': u'MAY 17'}
+INFO:root:{'high': u'2.966', 'volume': u'13', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.948', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'13,144', 'Open': u'2.948', 'month': u'JUN 17'}
+INFO:root:{'high': u'3.000', 'volume': u'63', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.991', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'10,581', 'Open': u'3.000', 'month': u'JLY 17'}
+INFO:root:{'high': u'3.014B', 'volume': u'85', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.998', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'12,341', 'Open': u'2.998', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'119', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'6,777', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'3.009', 'volume': u'141', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.001', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'14,711', 'Open': u'3.009', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'8', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.065A', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'6,905', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'18', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.203A', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'11,416', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'3.304', 'volume': u'33', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.303', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'12,483', 'Open': u'3.304', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'1', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'1,870', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'30', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'3,526', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'30', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'4,726', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'1,004', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'1,229', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'1,128', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'851', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'777', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'1,243', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'777', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'2,218', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'724', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'433', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'338', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'400', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:47:55', 'openInterest': u'274', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:{'high': u'2.692', 'volume': u'58,310', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.643', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'53,588', 'Open': u'2.670', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField gasFutures.tradedate received a naive datetime (2016-06-23 15:51:12) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'2.726', 'volume': u'21,104', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.681', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'194,202', 'Open': u'2.699', 'month': u'AUG 16'}
+INFO:root:{'high': u'2.736', 'volume': u'11,280', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.693', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'207,544', 'Open': u'2.713', 'month': u'SEP 16'}
+INFO:root:{'high': u'2.783', 'volume': u'4,019', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.743', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'116,894', 'Open': u'2.763', 'month': u'OCT 16'}
+INFO:root:{'high': u'2.925', 'volume': u'2,319', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.893', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'61,281', 'Open': u'2.906', 'month': u'NOV 16'}
+INFO:root:{'high': u'3.171', 'volume': u'2,093', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.152', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'51,428', 'Open': u'3.152', 'month': u'DEC 16'}
+INFO:root:{'high': u'3.306', 'volume': u'2,510', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.284', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'102,256', 'Open': u'3.300', 'month': u'JAN 17'}
+INFO:root:{'high': u'3.297', 'volume': u'553', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.279', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'26,529', 'Open': u'3.288', 'month': u'FEB 17'}
+INFO:root:{'high': u'3.249', 'volume': u'536', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.230', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'57,570', 'Open': u'3.242', 'month': u'MAR 17'}
+INFO:root:{'high': u'2.980', 'volume': u'632', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.959', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'49,956', 'Open': u'2.979', 'month': u'APR 17'}
+INFO:root:{'high': u'2.951', 'volume': u'204', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.921', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'20,133', 'Open': u'2.924', 'month': u'MAY 17'}
+INFO:root:{'high': u'2.966', 'volume': u'13', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.948', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'13,144', 'Open': u'2.948', 'month': u'JUN 17'}
+INFO:root:{'high': u'3.000', 'volume': u'63', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.991', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'10,581', 'Open': u'3.000', 'month': u'JLY 17'}
+INFO:root:{'high': u'3.014B', 'volume': u'85', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.998', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'12,341', 'Open': u'2.998', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'119', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'6,777', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'3.009', 'volume': u'141', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.001', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'14,711', 'Open': u'3.009', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'8', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.065A', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'6,905', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'18', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.203A', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'11,416', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'3.304', 'volume': u'33', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.303', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'12,483', 'Open': u'3.304', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'1', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'1,870', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'30', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'3,526', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'30', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'4,726', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'1,004', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'1,229', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'1,128', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'851', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'777', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'1,243', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'777', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'2,218', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'724', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'433', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'338', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'400', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 15:51:12', 'openInterest': u'274', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.692', 'volume': u'58,310', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.643', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'53,588', 'Open': u'2.670', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField gasFutures.tradedate received a naive datetime (2016-06-23 16:14:43) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.726', 'volume': u'21,104', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.681', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'194,202', 'Open': u'2.699', 'month': u'AUG 16'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.736', 'volume': u'11,280', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.693', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'207,544', 'Open': u'2.713', 'month': u'SEP 16'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.783', 'volume': u'4,019', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.743', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'116,894', 'Open': u'2.763', 'month': u'OCT 16'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.925', 'volume': u'2,319', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.893', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'61,281', 'Open': u'2.906', 'month': u'NOV 16'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.171', 'volume': u'2,093', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.152', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'51,428', 'Open': u'3.152', 'month': u'DEC 16'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.306', 'volume': u'2,510', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.284', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'102,256', 'Open': u'3.300', 'month': u'JAN 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.297', 'volume': u'553', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.279', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'26,529', 'Open': u'3.288', 'month': u'FEB 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.249', 'volume': u'536', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.230', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'57,570', 'Open': u'3.242', 'month': u'MAR 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.980', 'volume': u'632', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.959', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'49,956', 'Open': u'2.979', 'month': u'APR 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.951', 'volume': u'204', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.921', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'20,133', 'Open': u'2.924', 'month': u'MAY 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'2.966', 'volume': u'13', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.948', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'13,144', 'Open': u'2.948', 'month': u'JUN 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.000', 'volume': u'63', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.991', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'10,581', 'Open': u'3.000', 'month': u'JLY 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.014B', 'volume': u'85', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'2.998', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'12,341', 'Open': u'2.998', 'month': u'AUG 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'119', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'6,777', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.009', 'volume': u'141', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.001', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'14,711', 'Open': u'3.009', 'month': u'OCT 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'8', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.065A', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'6,905', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'18', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.203A', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'11,416', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'3.304', 'volume': u'33', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'3.303', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'12,483', 'Open': u'3.304', 'month': u'JAN 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'1', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'1,870', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'30', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'3,526', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'30', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'4,726', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'1,004', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'1,229', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'1,128', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'851', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'777', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'1,243', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'777', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'2,218', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'724', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'433', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'338', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'400', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:starting basis scrape ati 2016-06-23 16:14:43
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-23 16:14:43', 'openInterest': u'274', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:starting basis scrape on 2016-06-23 16:34:32.934078 for product TranscoZ6NY
+INFO:root:starting basis scrape on 2016-06-23 16:44:24.945072 for product TranscoZ6NY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22-16:44:24', 'openInterest': u'614', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:starting basis scrape on 2016-06-23 16:44:52.264291 for product TranscoZ6NY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:44:52', 'openInterest': u'614', 'Open': u'-', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField basisFutures.tradedate received a naive datetime (2016-06-22 16:44:52) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:starting basis scrape on 2016-06-23 16:45:53.008245 for product TranscoZ6NY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'614', 'Open': u'-', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField basisFutures.tradedate received a naive datetime (2016-06-22 16:45:52) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'614', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'560', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'512', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'278', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'314', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'293', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'272', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'324', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'106', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'60', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'56', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'60', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'60', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'60', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:starting basis scrape on 2016-06-23 16:45:53.642128 for product TranscoZ6NonNY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'589', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'682', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'540', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'403', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'450', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'620', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'496', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'448', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'496', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'570', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'589', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'570', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'589', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'589', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'570', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'589', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'150', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'155', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'168', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'112', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'JUN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'JLY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'AUG 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'OCT 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'124', 'Open': u'-', 'month': u'DEC 19'}
+INFO:root:starting basis scrape on 2016-06-23 16:45:54.207626 for product TexasM3
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'2,790', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'3,565', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'2,640', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'2,728', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'930', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'961', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'992', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'896', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'992', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'690', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'713', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'630', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'651', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'651', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'630', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'651', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'240', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'248', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'248', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'224', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'248', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'210', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'217', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'210', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'217', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'217', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'210', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'217', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'180', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'168', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'60', 'Open': u'-', 'month': u'NOV 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'DEC 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'JAN 20'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'58', 'Open': u'-', 'month': u'FEB 20'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'62', 'Open': u'-', 'month': u'MAR 20'}
+INFO:root:starting basis scrape on 2016-06-23 16:45:54.885779 for product AlgonquinCityGates
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'248', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'248', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'248', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'570', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'217', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'224', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'30', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'31', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'30', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'31', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'31', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'30', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'31', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:45:52', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:starting basis scrape on 2016-06-23 16:48:18.102540 for product TranscoZ6NY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'614', 'Open': u'-', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField basisFutures.tradedate received a naive datetime (2016-06-22 16:48:17) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'614', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'560', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'512', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'278', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'314', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'293', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'272', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'324', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'106', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'60', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'56', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'60', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'60', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'60', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:starting basis scrape on 2016-06-23 16:48:18.559268 for product TranscoZ6NonNY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'589', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'682', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'540', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'403', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'450', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'620', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'496', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'448', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'496', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'570', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'589', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'570', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'589', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'589', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'570', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'589', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'150', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'155', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'168', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'112', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'JUN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'JLY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'AUG 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'OCT 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'124', 'Open': u'-', 'month': u'DEC 19'}
+INFO:root:starting basis scrape on 2016-06-23 16:48:19.281561 for product TexasM3
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'2,790', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'3,565', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'2,640', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'2,728', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'930', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'961', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'992', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'896', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'992', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'690', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'713', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'630', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'651', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'651', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'630', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'651', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'240', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'248', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'248', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'224', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'248', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'210', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'217', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'210', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'217', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'217', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'210', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'217', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'180', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'168', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'60', 'Open': u'-', 'month': u'NOV 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'DEC 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'JAN 20'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'58', 'Open': u'-', 'month': u'FEB 20'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'62', 'Open': u'-', 'month': u'MAR 20'}
+INFO:root:starting basis scrape on 2016-06-23 16:48:19.835496 for product AlgonquinCityGates
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'248', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'248', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'248', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'570', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'217', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'224', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'30', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'31', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'30', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'31', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'31', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'30', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'31', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:48:17', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:starting basis scrape on 2016-06-23 16:51:14 for product TranscoZ6NY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'614', 'Open': u'-', 'month': u'JLY 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField basisFutures.tradedate received a naive datetime (2016-06-22 16:51:14) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'614', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'560', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'512', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'278', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'314', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'293', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'272', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'324', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'106', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'60', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'56', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'60', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'60', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'60', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:starting basis scrape on 2016-06-23 16:51:14 for product TranscoZ6NonNY
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'589', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'682', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'540', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'403', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'450', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'620', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'496', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'448', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'496', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'570', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'589', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'570', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'589', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'589', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'570', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'589', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'150', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'155', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'168', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'112', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'JUN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'JLY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'AUG 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'OCT 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TranscoZ6NonNY', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'124', 'Open': u'-', 'month': u'DEC 19'}
+INFO:root:starting basis scrape on 2016-06-23 16:51:14 for product TexasM3
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'2,790', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'3,565', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'2,640', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'2,728', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'930', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'961', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'992', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'896', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'992', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'690', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'713', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'630', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'651', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'651', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'630', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'651', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'240', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'248', 'Open': u'-', 'month': u'DEC 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'248', 'Open': u'-', 'month': u'JAN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'224', 'Open': u'-', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'248', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'210', 'Open': u'-', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'217', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'210', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'217', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'217', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'210', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'217', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'180', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'168', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'60', 'Open': u'-', 'month': u'NOV 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'DEC 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'JAN 20'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'58', 'Open': u'-', 'month': u'FEB 20'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'TexasM3', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'62', 'Open': u'-', 'month': u'MAR 20'}
+INFO:root:starting basis scrape on 2016-06-23 16:51:14 for product AlgonquinCityGates
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'248', 'Open': u'-', 'month': u'JLY 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'248', 'Open': u'-', 'month': u'AUG 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'SEP 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'248', 'Open': u'-', 'month': u'OCT 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'570', 'Open': u'-', 'month': u'NOV 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'DEC 16'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'217', 'Open': u'-', 'month': u'JAN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'224', 'Open': u'-', 'month': u'FEB 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'186', 'Open': u'-', 'month': u'MAR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'30', 'Open': u'-', 'month': u'APR 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'31', 'Open': u'-', 'month': u'MAY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'30', 'Open': u'-', 'month': u'JUN 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'31', 'Open': u'-', 'month': u'JLY 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'31', 'Open': u'-', 'month': u'AUG 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'30', 'Open': u'-', 'month': u'SEP 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'31', 'Open': u'-', 'month': u'OCT 17'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'AlgonquinCityGates', 'settle': u'0', 'low': u'-', 'tradedate': '2016-06-22 16:51:14', 'openInterest': u'120', 'Open': u'-', 'month': u'NOV 17'}
+INFO:root:starting scrape on 2016-06-23 18:46
+INFO:root:starting scrape on 2016-06-23 18:52
+INFO:root:starting scrape on 2016-06-23 18:53
+INFO:root:starting scrape on 2016-07-11 13:28
+INFO:root:starting scrape on 2016-07-11 14:13
+INFO:root:{'high': u'2.825', 'volume': u'102,796', 'product': 'hh_natural_gas', 'settle': u'2.801', 'low': u'2.748', 'tradedate': '2016-07-11 14:13', 'openInterest': u'186,636', 'Open': u'2.758', 'month': u'AUG 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField gasFutures.tradedate received a naive datetime (2016-07-11 14:13:00) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'2.812', 'volume': u'60,884', 'product': 'hh_natural_gas', 'settle': u'2.788', 'low': u'2.740', 'tradedate': '2016-07-11 14:13', 'openInterest': u'226,011', 'Open': u'2.750', 'month': u'SEP 16'}
+INFO:root:{'high': u'2.849', 'volume': u'33,278', 'product': 'hh_natural_gas', 'settle': u'2.827', 'low': u'2.778', 'tradedate': '2016-07-11 14:13', 'openInterest': u'108,450', 'Open': u'2.789', 'month': u'OCT 16'}
+INFO:root:{'high': u'3.005', 'volume': u'23,771', 'product': 'hh_natural_gas', 'settle': u'2.990', 'low': u'2.941A', 'tradedate': '2016-07-11 14:13', 'openInterest': u'71,894', 'Open': u'2.951', 'month': u'NOV 16'}
+INFO:root:{'high': u'3.264', 'volume': u'11,116', 'product': 'hh_natural_gas', 'settle': u'3.251', 'low': u'3.204A', 'tradedate': '2016-07-11 14:13', 'openInterest': u'54,171', 'Open': u'3.210', 'month': u'DEC 16'}
+INFO:root:{'high': u'3.397', 'volume': u'15,998', 'product': 'hh_natural_gas', 'settle': u'3.384', 'low': u'3.338A', 'tradedate': '2016-07-11 14:13', 'openInterest': u'108,868', 'Open': u'3.347', 'month': u'JAN 17'}
+INFO:root:{'high': u'3.381', 'volume': u'4,016', 'product': 'hh_natural_gas', 'settle': u'3.370', 'low': u'3.329A', 'tradedate': '2016-07-11 14:13', 'openInterest': u'29,333', 'Open': u'3.339', 'month': u'FEB 17'}
+INFO:root:{'high': u'3.328', 'volume': u'7,081', 'product': 'hh_natural_gas', 'settle': u'3.318', 'low': u'3.281A', 'tradedate': '2016-07-11 14:13', 'openInterest': u'63,141', 'Open': u'3.291', 'month': u'MAR 17'}
+INFO:root:{'high': u'3.087', 'volume': u'8,986', 'product': 'hh_natural_gas', 'settle': u'3.082', 'low': u'3.056', 'tradedate': '2016-07-11 14:13', 'openInterest': u'51,259', 'Open': u'3.070', 'month': u'APR 17'}
+INFO:root:{'high': u'3.058', 'volume': u'5,445', 'product': 'hh_natural_gas', 'settle': u'3.053', 'low': u'3.032', 'tradedate': '2016-07-11 14:13', 'openInterest': u'20,093', 'Open': u'3.034', 'month': u'MAY 17'}
+INFO:root:{'high': u'3.094', 'volume': u'4,226', 'product': 'hh_natural_gas', 'settle': u'3.089', 'low': u'3.070', 'tradedate': '2016-07-11 14:13', 'openInterest': u'17,039', 'Open': u'3.080', 'month': u'JUN 17'}
+INFO:root:{'high': u'3.129', 'volume': u'1,867', 'product': 'hh_natural_gas', 'settle': u'3.121', 'low': u'3.110A', 'tradedate': '2016-07-11 14:13', 'openInterest': u'12,589', 'Open': u'3.129', 'month': u'JLY 17'}
+INFO:root:{'high': u'3.138', 'volume': u'765', 'product': 'hh_natural_gas', 'settle': u'3.130', 'low': u'3.118', 'tradedate': '2016-07-11 14:13', 'openInterest': u'13,259', 'Open': u'3.119', 'month': u'AUG 17'}
+INFO:root:{'high': u'3.116', 'volume': u'833', 'product': 'hh_natural_gas', 'settle': u'3.107', 'low': u'3.095', 'tradedate': '2016-07-11 14:13', 'openInterest': u'7,963', 'Open': u'3.098', 'month': u'SEP 17'}
+INFO:root:{'high': u'3.137', 'volume': u'2,393', 'product': 'hh_natural_gas', 'settle': u'3.129', 'low': u'3.119', 'tradedate': '2016-07-11 14:13', 'openInterest': u'19,431', 'Open': u'3.133', 'month': u'OCT 17'}
+INFO:root:{'high': u'3.183', 'volume': u'1,350', 'product': 'hh_natural_gas', 'settle': u'3.179', 'low': u'3.168', 'tradedate': '2016-07-11 14:13', 'openInterest': u'8,698', 'Open': u'3.170', 'month': u'NOV 17'}
+INFO:root:{'high': u'3.315B', 'volume': u'1,495', 'product': 'hh_natural_gas', 'settle': u'3.310', 'low': u'3.295', 'tradedate': '2016-07-11 14:13', 'openInterest': u'14,542', 'Open': u'3.303', 'month': u'DEC 17'}
+INFO:root:{'high': u'3.412B', 'volume': u'984', 'product': 'hh_natural_gas', 'settle': u'3.407', 'low': u'3.395', 'tradedate': '2016-07-11 14:13', 'openInterest': u'12,657', 'Open': u'3.395', 'month': u'JAN 18'}
+INFO:root:{'high': u'3.362', 'volume': u'95', 'product': 'hh_natural_gas', 'settle': u'3.366', 'low': u'3.362', 'tradedate': '2016-07-11 14:13', 'openInterest': u'2,523', 'Open': u'3.362', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'196', 'product': 'hh_natural_gas', 'settle': u'3.287', 'low': u'-', 'tradedate': '2016-07-11 14:13', 'openInterest': u'5,212', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:starting scrape on 2016-07-11 14:35
+INFO:root:{'high': u'2.825', 'volume': u'102,796', 'product': 'hh_natural_gas', 'settle': u'2.801', 'low': u'2.748', 'tradedate': '2016-07-11 14:35', 'openInterest': u'186,636', 'Open': u'2.758', 'month': u'AUG 16'}
+WARNING:py.warnings:/home/ubuntu/app1/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1453: RuntimeWarning: DateTimeField gasFutures.tradedate received a naive datetime (2016-07-11 14:35:00) while time zone support is active.
+  RuntimeWarning)
+
+INFO:root:{'high': u'2.812', 'volume': u'60,884', 'product': 'hh_natural_gas', 'settle': u'2.788', 'low': u'2.740', 'tradedate': '2016-07-11 14:35', 'openInterest': u'226,011', 'Open': u'2.750', 'month': u'SEP 16'}
+INFO:root:{'high': u'2.849', 'volume': u'33,278', 'product': 'hh_natural_gas', 'settle': u'2.827', 'low': u'2.778', 'tradedate': '2016-07-11 14:35', 'openInterest': u'108,450', 'Open': u'2.789', 'month': u'OCT 16'}
+INFO:root:{'high': u'3.005', 'volume': u'23,771', 'product': 'hh_natural_gas', 'settle': u'2.990', 'low': u'2.941A', 'tradedate': '2016-07-11 14:35', 'openInterest': u'71,894', 'Open': u'2.951', 'month': u'NOV 16'}
+INFO:root:{'high': u'3.264', 'volume': u'11,116', 'product': 'hh_natural_gas', 'settle': u'3.251', 'low': u'3.204A', 'tradedate': '2016-07-11 14:35', 'openInterest': u'54,171', 'Open': u'3.210', 'month': u'DEC 16'}
+INFO:root:{'high': u'3.397', 'volume': u'15,998', 'product': 'hh_natural_gas', 'settle': u'3.384', 'low': u'3.338A', 'tradedate': '2016-07-11 14:35', 'openInterest': u'108,868', 'Open': u'3.347', 'month': u'JAN 17'}
+INFO:root:{'high': u'3.381', 'volume': u'4,016', 'product': 'hh_natural_gas', 'settle': u'3.370', 'low': u'3.329A', 'tradedate': '2016-07-11 14:35', 'openInterest': u'29,333', 'Open': u'3.339', 'month': u'FEB 17'}
+INFO:root:{'high': u'3.328', 'volume': u'7,081', 'product': 'hh_natural_gas', 'settle': u'3.318', 'low': u'3.281A', 'tradedate': '2016-07-11 14:35', 'openInterest': u'63,141', 'Open': u'3.291', 'month': u'MAR 17'}
+INFO:root:{'high': u'3.087', 'volume': u'8,986', 'product': 'hh_natural_gas', 'settle': u'3.082', 'low': u'3.056', 'tradedate': '2016-07-11 14:35', 'openInterest': u'51,259', 'Open': u'3.070', 'month': u'APR 17'}
+INFO:root:{'high': u'3.058', 'volume': u'5,445', 'product': 'hh_natural_gas', 'settle': u'3.053', 'low': u'3.032', 'tradedate': '2016-07-11 14:35', 'openInterest': u'20,093', 'Open': u'3.034', 'month': u'MAY 17'}
+INFO:root:{'high': u'3.094', 'volume': u'4,226', 'product': 'hh_natural_gas', 'settle': u'3.089', 'low': u'3.070', 'tradedate': '2016-07-11 14:35', 'openInterest': u'17,039', 'Open': u'3.080', 'month': u'JUN 17'}
+INFO:root:{'high': u'3.129', 'volume': u'1,867', 'product': 'hh_natural_gas', 'settle': u'3.121', 'low': u'3.110A', 'tradedate': '2016-07-11 14:35', 'openInterest': u'12,589', 'Open': u'3.129', 'month': u'JLY 17'}
+INFO:root:{'high': u'3.138', 'volume': u'765', 'product': 'hh_natural_gas', 'settle': u'3.130', 'low': u'3.118', 'tradedate': '2016-07-11 14:35', 'openInterest': u'13,259', 'Open': u'3.119', 'month': u'AUG 17'}
+INFO:root:{'high': u'3.116', 'volume': u'833', 'product': 'hh_natural_gas', 'settle': u'3.107', 'low': u'3.095', 'tradedate': '2016-07-11 14:35', 'openInterest': u'7,963', 'Open': u'3.098', 'month': u'SEP 17'}
+INFO:root:{'high': u'3.137', 'volume': u'2,393', 'product': 'hh_natural_gas', 'settle': u'3.129', 'low': u'3.119', 'tradedate': '2016-07-11 14:35', 'openInterest': u'19,431', 'Open': u'3.133', 'month': u'OCT 17'}
+INFO:root:{'high': u'3.183', 'volume': u'1,350', 'product': 'hh_natural_gas', 'settle': u'3.179', 'low': u'3.168', 'tradedate': '2016-07-11 14:35', 'openInterest': u'8,698', 'Open': u'3.170', 'month': u'NOV 17'}
+INFO:root:{'high': u'3.315B', 'volume': u'1,495', 'product': 'hh_natural_gas', 'settle': u'3.310', 'low': u'3.295', 'tradedate': '2016-07-11 14:35', 'openInterest': u'14,542', 'Open': u'3.303', 'month': u'DEC 17'}
+INFO:root:{'high': u'3.412B', 'volume': u'984', 'product': 'hh_natural_gas', 'settle': u'3.407', 'low': u'3.395', 'tradedate': '2016-07-11 14:35', 'openInterest': u'12,657', 'Open': u'3.395', 'month': u'JAN 18'}
+INFO:root:{'high': u'3.362', 'volume': u'95', 'product': 'hh_natural_gas', 'settle': u'3.366', 'low': u'3.362', 'tradedate': '2016-07-11 14:35', 'openInterest': u'2,523', 'Open': u'3.362', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'196', 'product': 'hh_natural_gas', 'settle': u'3.287', 'low': u'-', 'tradedate': '2016-07-11 14:35', 'openInterest': u'5,212', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:starting scrape on 2016-07-11 14:41
+INFO:root:{'high': u'2.825', 'volume': u'102,796', 'product': 'hh_natural_gas', 'settle': u'2.801', 'low': u'2.748', 'tradedate': '2016-07-11 14:41', 'openInterest': u'186,636', 'Open': u'2.758', 'month': u'AUG 16'}
+INFO:root:{'high': u'2.812', 'volume': u'60,884', 'product': 'hh_natural_gas', 'settle': u'2.788', 'low': u'2.740', 'tradedate': '2016-07-11 14:41', 'openInterest': u'226,011', 'Open': u'2.750', 'month': u'SEP 16'}
+INFO:root:{'high': u'2.849', 'volume': u'33,278', 'product': 'hh_natural_gas', 'settle': u'2.827', 'low': u'2.778', 'tradedate': '2016-07-11 14:41', 'openInterest': u'108,450', 'Open': u'2.789', 'month': u'OCT 16'}
+INFO:root:{'high': u'3.005', 'volume': u'23,771', 'product': 'hh_natural_gas', 'settle': u'2.990', 'low': u'2.941A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'71,894', 'Open': u'2.951', 'month': u'NOV 16'}
+INFO:root:{'high': u'3.264', 'volume': u'11,116', 'product': 'hh_natural_gas', 'settle': u'3.251', 'low': u'3.204A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'54,171', 'Open': u'3.210', 'month': u'DEC 16'}
+INFO:root:{'high': u'3.397', 'volume': u'15,998', 'product': 'hh_natural_gas', 'settle': u'3.384', 'low': u'3.338A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'108,868', 'Open': u'3.347', 'month': u'JAN 17'}
+INFO:root:{'high': u'3.381', 'volume': u'4,016', 'product': 'hh_natural_gas', 'settle': u'3.370', 'low': u'3.329A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'29,333', 'Open': u'3.339', 'month': u'FEB 17'}
+INFO:root:{'high': u'3.328', 'volume': u'7,081', 'product': 'hh_natural_gas', 'settle': u'3.318', 'low': u'3.281A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'63,141', 'Open': u'3.291', 'month': u'MAR 17'}
+INFO:root:{'high': u'3.087', 'volume': u'8,986', 'product': 'hh_natural_gas', 'settle': u'3.082', 'low': u'3.056', 'tradedate': '2016-07-11 14:41', 'openInterest': u'51,259', 'Open': u'3.070', 'month': u'APR 17'}
+INFO:root:{'high': u'3.058', 'volume': u'5,445', 'product': 'hh_natural_gas', 'settle': u'3.053', 'low': u'3.032', 'tradedate': '2016-07-11 14:41', 'openInterest': u'20,093', 'Open': u'3.034', 'month': u'MAY 17'}
+INFO:root:{'high': u'3.094', 'volume': u'4,226', 'product': 'hh_natural_gas', 'settle': u'3.089', 'low': u'3.070', 'tradedate': '2016-07-11 14:41', 'openInterest': u'17,039', 'Open': u'3.080', 'month': u'JUN 17'}
+INFO:root:{'high': u'3.129', 'volume': u'1,867', 'product': 'hh_natural_gas', 'settle': u'3.121', 'low': u'3.110A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'12,589', 'Open': u'3.129', 'month': u'JLY 17'}
+INFO:root:{'high': u'3.138', 'volume': u'765', 'product': 'hh_natural_gas', 'settle': u'3.130', 'low': u'3.118', 'tradedate': '2016-07-11 14:41', 'openInterest': u'13,259', 'Open': u'3.119', 'month': u'AUG 17'}
+INFO:root:{'high': u'3.116', 'volume': u'833', 'product': 'hh_natural_gas', 'settle': u'3.107', 'low': u'3.095', 'tradedate': '2016-07-11 14:41', 'openInterest': u'7,963', 'Open': u'3.098', 'month': u'SEP 17'}
+INFO:root:{'high': u'3.137', 'volume': u'2,393', 'product': 'hh_natural_gas', 'settle': u'3.129', 'low': u'3.119', 'tradedate': '2016-07-11 14:41', 'openInterest': u'19,431', 'Open': u'3.133', 'month': u'OCT 17'}
+INFO:root:{'high': u'3.183', 'volume': u'1,350', 'product': 'hh_natural_gas', 'settle': u'3.179', 'low': u'3.168', 'tradedate': '2016-07-11 14:41', 'openInterest': u'8,698', 'Open': u'3.170', 'month': u'NOV 17'}
+INFO:root:{'high': u'3.315B', 'volume': u'1,495', 'product': 'hh_natural_gas', 'settle': u'3.310', 'low': u'3.295', 'tradedate': '2016-07-11 14:41', 'openInterest': u'14,542', 'Open': u'3.303', 'month': u'DEC 17'}
+INFO:root:{'high': u'3.412B', 'volume': u'984', 'product': 'hh_natural_gas', 'settle': u'3.407', 'low': u'3.395', 'tradedate': '2016-07-11 14:41', 'openInterest': u'12,657', 'Open': u'3.395', 'month': u'JAN 18'}
+INFO:root:{'high': u'3.362', 'volume': u'95', 'product': 'hh_natural_gas', 'settle': u'3.366', 'low': u'3.362', 'tradedate': '2016-07-11 14:41', 'openInterest': u'2,523', 'Open': u'3.362', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'196', 'product': 'hh_natural_gas', 'settle': u'3.287', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'5,212', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'2.885', 'volume': u'169', 'product': 'hh_natural_gas', 'settle': u'2.891', 'low': u'2.885', 'tradedate': '2016-07-11 14:41', 'openInterest': u'6,260', 'Open': u'2.885', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'12', 'product': 'hh_natural_gas', 'settle': u'2.858', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'1,076', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.884', 'low': u'2.880A', 'tradedate': '2016-07-11 14:41', 'openInterest': u'1,348', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.915', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'1,204', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.924', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'1,421', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.901', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'760', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.919', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'2,470', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.991', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'753', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.135', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'2,167', 'Open': u'-', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.251', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'719', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.219', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'432', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.156', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'337', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.871', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'401', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.860', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'273', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.890', 'low': u'-', 'tradedate': '2016-07-11 14:41', 'openInterest': u'262', 'Open': u'-', 'month': u'JUN 19'}
+INFO:root:starting scrape on 2016-07-22 14:20
+INFO:root:{'high': u'2.710', 'volume': u'121,231', 'product': 'hh_natural_gas', 'settle': u'2.692', 'low': u'2.625', 'tradedate': '2016-07-22 14:20', 'openInterest': u'57,117', 'Open': u'2.665', 'month': u'AUG 16'}
+INFO:root:{'high': u'2.672', 'volume': u'94,477', 'product': 'hh_natural_gas', 'settle': u'2.659', 'low': u'2.591', 'tradedate': '2016-07-22 14:20', 'openInterest': u'258,504', 'Open': u'2.618', 'month': u'SEP 16'}
+INFO:root:{'high': u'2.707', 'volume': u'41,484', 'product': 'hh_natural_gas', 'settle': u'2.698', 'low': u'2.632', 'tradedate': '2016-07-22 14:20', 'openInterest': u'108,605', 'Open': u'2.663', 'month': u'OCT 16'}
+INFO:root:{'high': u'2.881', 'volume': u'21,228', 'product': 'hh_natural_gas', 'settle': u'2.872', 'low': u'2.817A', 'tradedate': '2016-07-22 14:20', 'openInterest': u'86,457', 'Open': u'2.828', 'month': u'NOV 16'}
+INFO:root:{'high': u'3.153', 'volume': u'14,131', 'product': 'hh_natural_gas', 'settle': u'3.143', 'low': u'3.095', 'tradedate': '2016-07-22 14:20', 'openInterest': u'57,233', 'Open': u'3.114', 'month': u'DEC 16'}
+INFO:root:{'high': u'3.282', 'volume': u'20,739', 'product': 'hh_natural_gas', 'settle': u'3.273', 'low': u'3.227', 'tradedate': '2016-07-22 14:20', 'openInterest': u'116,000', 'Open': u'3.254', 'month': u'JAN 17'}
+INFO:root:{'high': u'3.268', 'volume': u'5,124', 'product': 'hh_natural_gas', 'settle': u'3.262', 'low': u'3.225', 'tradedate': '2016-07-22 14:20', 'openInterest': u'30,294', 'Open': u'3.233', 'month': u'FEB 17'}
+INFO:root:{'high': u'3.221', 'volume': u'11,325', 'product': 'hh_natural_gas', 'settle': u'3.215', 'low': u'3.168', 'tradedate': '2016-07-22 14:20', 'openInterest': u'63,235', 'Open': u'3.180', 'month': u'MAR 17'}
+INFO:root:{'high': u'2.976', 'volume': u'8,936', 'product': 'hh_natural_gas', 'settle': u'2.971', 'low': u'2.930', 'tradedate': '2016-07-22 14:20', 'openInterest': u'55,021', 'Open': u'2.943', 'month': u'APR 17'}
+INFO:root:{'high': u'2.953', 'volume': u'2,404', 'product': 'hh_natural_gas', 'settle': u'2.948', 'low': u'2.906', 'tradedate': '2016-07-22 14:20', 'openInterest': u'21,916', 'Open': u'2.907', 'month': u'MAY 17'}
+INFO:root:{'high': u'2.985', 'volume': u'916', 'product': 'hh_natural_gas', 'settle': u'2.984', 'low': u'2.952', 'tradedate': '2016-07-22 14:20', 'openInterest': u'20,896', 'Open': u'2.952', 'month': u'JUN 17'}
+INFO:root:{'high': u'3.023', 'volume': u'627', 'product': 'hh_natural_gas', 'settle': u'3.018', 'low': u'2.985', 'tradedate': '2016-07-22 14:20', 'openInterest': u'13,027', 'Open': u'2.986', 'month': u'JLY 17'}
+INFO:root:{'high': u'3.032', 'volume': u'501', 'product': 'hh_natural_gas', 'settle': u'3.028', 'low': u'2.991A', 'tradedate': '2016-07-22 14:20', 'openInterest': u'14,860', 'Open': u'3.009', 'month': u'AUG 17'}
+INFO:root:{'high': u'3.007', 'volume': u'574', 'product': 'hh_natural_gas', 'settle': u'3.006', 'low': u'2.979', 'tradedate': '2016-07-22 14:20', 'openInterest': u'9,476', 'Open': u'2.980', 'month': u'SEP 17'}
+INFO:root:{'high': u'3.029', 'volume': u'1,029', 'product': 'hh_natural_gas', 'settle': u'3.028', 'low': u'2.986', 'tradedate': '2016-07-22 14:20', 'openInterest': u'20,861', 'Open': u'2.987', 'month': u'OCT 17'}
+INFO:root:{'high': u'3.089', 'volume': u'300', 'product': 'hh_natural_gas', 'settle': u'3.085', 'low': u'3.053', 'tradedate': '2016-07-22 14:20', 'openInterest': u'9,327', 'Open': u'3.053', 'month': u'NOV 17'}
+INFO:root:{'high': u'3.225', 'volume': u'480', 'product': 'hh_natural_gas', 'settle': u'3.221', 'low': u'3.189', 'tradedate': '2016-07-22 14:20', 'openInterest': u'14,340', 'Open': u'3.191', 'month': u'DEC 17'}
+INFO:root:{'high': u'3.320', 'volume': u'657', 'product': 'hh_natural_gas', 'settle': u'3.322', 'low': u'3.290', 'tradedate': '2016-07-22 14:20', 'openInterest': u'12,763', 'Open': u'3.290', 'month': u'JAN 18'}
+INFO:root:{'high': u'3.288', 'volume': u'170', 'product': 'hh_natural_gas', 'settle': u'3.289', 'low': u'3.288', 'tradedate': '2016-07-22 14:20', 'openInterest': u'2,839', 'Open': u'3.288', 'month': u'FEB 18'}
+INFO:root:{'high': u'-', 'volume': u'63', 'product': 'hh_natural_gas', 'settle': u'3.214', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'5,286', 'Open': u'-', 'month': u'MAR 18'}
+INFO:root:{'high': u'2.843', 'volume': u'87', 'product': 'hh_natural_gas', 'settle': u'2.853', 'low': u'2.828', 'tradedate': '2016-07-22 14:20', 'openInterest': u'6,767', 'Open': u'2.828', 'month': u'APR 18'}
+INFO:root:{'high': u'-', 'volume': u'134', 'product': 'hh_natural_gas', 'settle': u'2.819', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'1,245', 'Open': u'-', 'month': u'MAY 18'}
+INFO:root:{'high': u'-', 'volume': u'134', 'product': 'hh_natural_gas', 'settle': u'2.847', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'1,376', 'Open': u'-', 'month': u'JUN 18'}
+INFO:root:{'high': u'-', 'volume': u'34', 'product': 'hh_natural_gas', 'settle': u'2.877', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'1,227', 'Open': u'-', 'month': u'JLY 18'}
+INFO:root:{'high': u'-', 'volume': u'34', 'product': 'hh_natural_gas', 'settle': u'2.886', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'1,428', 'Open': u'-', 'month': u'AUG 18'}
+INFO:root:{'high': u'-', 'volume': u'44', 'product': 'hh_natural_gas', 'settle': u'2.868', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'770', 'Open': u'-', 'month': u'SEP 18'}
+INFO:root:{'high': u'-', 'volume': u'54', 'product': 'hh_natural_gas', 'settle': u'2.894', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'2,528', 'Open': u'-', 'month': u'OCT 18'}
+INFO:root:{'high': u'-', 'volume': u'44', 'product': 'hh_natural_gas', 'settle': u'2.964', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'762', 'Open': u'-', 'month': u'NOV 18'}
+INFO:root:{'high': u'3.095', 'volume': u'46', 'product': 'hh_natural_gas', 'settle': u'3.109', 'low': u'3.095', 'tradedate': '2016-07-22 14:20', 'openInterest': u'2,180', 'Open': u'3.095', 'month': u'DEC 18'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.224', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'745', 'Open': u'-', 'month': u'JAN 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.192', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'447', 'Open': u'-', 'month': u'FEB 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'3.126', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'352', 'Open': u'-', 'month': u'MAR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.858', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'416', 'Open': u'-', 'month': u'APR 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.847', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'289', 'Open': u'-', 'month': u'MAY 19'}
+INFO:root:{'high': u'-', 'volume': u'0', 'product': 'hh_natural_gas', 'settle': u'2.877', 'low': u'-', 'tradedate': '2016-07-22 14:20', 'openInterest': u'277', 'Open': u'-', 'month': u'JUN 19'}
