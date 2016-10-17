@@ -14,7 +14,7 @@ class Command(BaseCommand):
         self.stdout.write('\ngrabbed on %s' %stamp)
 
     def grabStorage(url, source):
-
+        #get natural gas marks, and commentary from EIA webpage
         page = urllib2.Request(url, headers = {'User-Agent':'Mozilla/5.0'})
         Html = urllib2.urlopen(page).read()
         soup = BeautifulSoup(Html, "html.parser")
