@@ -4,17 +4,17 @@ import datetime
 import urllib2
 from bs4 import BeautifulSoup
 from datetime import time
-
+from pprint import pformat
 stamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 class Command(BaseCommand):
     help='script to grab natural gas storage data and commentary from EIA website'
 
     def handle(self, *args, **options):
+
         self.stdout.write('\ngrabbed on %s' %stamp)
-
-    def grabStorage(url, source):
-
+        url = 'http://ir.eia.gov/ngs/ngs.html'
+        source = 'EIA'
         page = urllib2.Request(url, headers = {'User-Agent':'Mozilla/5.0'})
         Html = urllib2.urlopen(page).read()
         soup = BeautifulSoup(Html, "html.parser")
@@ -27,7 +27,7 @@ class Command(BaseCommand):
         summary = soup.find_all('p')[3].text.strip()
         myGas = {
 
-                'product': source,
+                'source': source,
                 'reportDate': stamp,
                 'thisWeekBcf': thisWeek,
                 'lastWeekBcf': lastWeek,
@@ -35,9 +35,8 @@ class Command(BaseCommand):
                 'fiveYearAvgBcf': fiveYear,
                 'summary':summary,
                 }
-        print myGas
+        print pformat(myGas)
         myGetData = gasStorage(**myGas)
         myGetData.save()
 
-grabStorage('http://ir.eia.gov/ngs/ngs.html', 'EIA')
 #print ('%s, %s, %s, %s') %(thisWeek, lastWeek, lastYear, fiveYear)
