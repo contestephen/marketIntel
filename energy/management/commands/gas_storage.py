@@ -5,7 +5,9 @@ import urllib2
 from bs4 import BeautifulSoup
 from datetime import time
 from pprint import pformat
+import logging
 stamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+logging.basicConfig(filename='eia_log.log', level=logging.INFO)
 
 class Command(BaseCommand):
     help='script to grab natural gas storage data and commentary from EIA website'
@@ -35,6 +37,7 @@ class Command(BaseCommand):
                 'fiveYearAvgBcf': fiveYear,
                 'summary':summary,
                 }
+        logging.info(myGas)
         print pformat(myGas)
         myGetData = gasStorage(**myGas)
         myGetData.save()

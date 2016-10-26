@@ -56,22 +56,23 @@ class Command(BaseCommand):
 
 
 
-
-        #settles to estimate 12/24 month forward prices
+        print x
+        '''
+        settles to estimate 12/24 month forward prices
         x = list(map(int, ast.literal_eval(x)))
         averages = {
                 'product': 'hh_natgas',
-                'twelve': sum(x[:11])/12,
-                'twentyFour':sum(x[:23])/24
+                'twelve': sum(int(x)[:11])/12,
+                'twentyFour':sum(int(x)[:23])/24
                 }
         print x
         print averages
-        #save scrape data
+        save scrape data '''
         myGetData = gasFutures(**myGas)
         myGetData.save()
         #self.stdout.write('\nbasis scrape complete.  Check log for more info')
-
+        '''
         #save 12/24 month averages
         MyAverage = forwardStrips(**averages)
         myAverage.save()
-
+       '''

@@ -14,7 +14,7 @@ class gasFutures(models.Model):
     volume = models.CommaSeparatedIntegerField(max_length=20)
     openInterest = models.CommaSeparatedIntegerField(max_length=20)
 
-    def __str__(self):
+    def __unicode__(self):
         return '%s, %s, %s, %s, %s, %s, %s' %(self.product, self.tradedate, self.month, self.Open, self.high, self.low, self.settle)
     class meta():
         db_table='gas_futures'
@@ -32,7 +32,7 @@ class basisFutures(models.Model):
     volume = models.CommaSeparatedIntegerField(max_length=20)
     openInterest = models.CommaSeparatedIntegerField(max_length=20)
 
-    def __str__(self):
+    def __unicode__(self):
         return '%s, %s, %s, %s, %s, %s, %s %s %s' %(self.product, self.tradedate, self.month, self.Open, self.high, self.low, self.settle, self.volume, self.openInterest)
 
     class meta():
@@ -42,17 +42,15 @@ class gasStorage(models.Model):
     key = models.AutoField(primary_key=True)
     source = models.TextField(max_length=50)
     reportDate = models.DateTimeField('report date')
-    thisWeekBcf = models.IntegerField(default=0)
-    lastWeekBcf = models.IntegerField(default=0)
-    yearAgoBcf = models.IntegerField(default=0)
-    fiveYearAvgBcf = models.IntegerField(default=0)
-    summary = models.TextField(max_length=2000)
+    thisWeekBcf = models.CommaSeparatedIntegerField(max_length=20)
+    lastWeekBcf = models.CommaSeparatedIntegerField(max_length=20)
+    yearAgoBcf = models.CommaSeparatedIntegerField(max_length=20)
+    fiveYearAvgBcf = models.CommaSeparatedIntegerField(max_length=20)
+    summary = models.TextField()
 
+    def __unicode__(self):
+        return '%s, %s, %s,' % (self.source, self.reportDate, self.summary)
 
-    def __str__(self):
-        return '%s, %s, s%, s%' %(self.reportDate, self.stock, self.yearAgo, self.fiveYearAverage)
-    class meta():
-        db_table = 'gas_storage'
 
 class forwardStrips(models.Model):
       key = models.AutoField(primary_key=True)
@@ -60,7 +58,7 @@ class forwardStrips(models.Model):
       twelve = models.DecimalField(max_digits=4, decimal_places=3)
       twentyFour = models.DecimalField(max_digits=4, decimal_places=3)
 
-      def __str__(self):
+      def __unicode__(self):
           return '%s, %s, %s' %(self.product, self.twelve, self.twentyFour)
       class meta():
           db_table = 'forwardStrips'
