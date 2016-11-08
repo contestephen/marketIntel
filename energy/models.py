@@ -4,15 +4,15 @@ from django.db import models
 
 class gasFutures(models.Model):
     key = models.AutoField(primary_key=True)
-    product = models.CharField(max_length=20)
+    product = models.CharField(max_length=40)
     tradedate = models.DateTimeField('Trade Date')
     month = models.CharField(max_length=10)
-    Open = models.DecimalField(max_digits=4, decimal_places=3)
-    high = models.TextField(max_length=5)
-    low = models.TextField(max_length=5)
-    settle =  models.TextField(max_length=5)
-    volume = models.CommaSeparatedIntegerField(max_length=20)
-    openInterest = models.CommaSeparatedIntegerField(max_length=20)
+    Open = models.CharField(max_length=5)
+    high = models.CharField(max_length=6)
+    low = models.CharField(max_length=6)
+    settle =  models.CharField(max_length=5)
+    volume = models.CommaSeparatedIntegerField(max_length=30)
+    openInterest = models.CommaSeparatedIntegerField(max_length=30)
 
     def __unicode__(self):
         return '%s, %s, %s, %s, %s, %s, %s' %(self.product, self.tradedate, self.month, self.Open, self.high, self.low, self.settle)
@@ -22,7 +22,7 @@ class gasFutures(models.Model):
 
 class basisFutures(models.Model):
     key = models.AutoField(primary_key=True)
-    product = models.CharField(max_length=20)
+    product = models.CharField(max_length=40)
     tradedate = models.DateTimeField('Trade Date')
     month = models.CharField(max_length=10)
     Open = models.DecimalField(max_digits=4, decimal_places=3)
@@ -54,7 +54,7 @@ class gasStorage(models.Model):
 
 class forwardStrips(models.Model):
       key = models.AutoField(primary_key=True)
-      product = models.CharField(max_length=20)
+      product = models.CharField(max_length=30)
       twelve = models.DecimalField(max_digits=4, decimal_places=3)
       twentyFour = models.DecimalField(max_digits=4, decimal_places=3)
 

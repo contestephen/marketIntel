@@ -32,10 +32,9 @@ class Command(BaseCommand):
             c=row.findChildren('td')
             b=row.findChildren('th')
             #create instance of myGas dict
-            try:
-                x.append(c[5].text.strip())
 
-                myGas = {
+            x.append(c[5].text.strip())
+            myGas = {
                     'product':'hh_natural_gas',
                     'tradedate': stamp,
                     'month':b[0].text.strip(),
@@ -46,33 +45,32 @@ class Command(BaseCommand):
                     'volume':c[6].text.strip(),
                     'openInterest':c[7].text.strip()
                         }
+
+            myGetData = gasFutures(**myGas)
+            myGetData.save()
+
             #debug
-                logging.info(myGas)
+            logging.info(myGas)
+        # print x
+        tw=0
+        tf=0
+        for i in x[:12]:tw += float(i)
+        tw/=12
+        for k in x[:24]:tf+=float(k)
+        tf/=24
 
+        print tw, tf
 
-            except ValidationError:
-                print 'settlements are not posted yet'
-                logging.info('settlements are not posted')
+        # settles to estimate 12/24 month forward prices
+        #x = list(map(int, ast.literal_eval(x)))
 
-
-
-        print x
-        '''
-        settles to estimate 12/24 month forward prices
-        x = list(map(int, ast.literal_eval(x)))
         averages = {
-                'product': 'hh_natgas',
-                'twelve': sum(int(x)[:11])/12,
-                'twentyFour':sum(int(x)[:23])/24
-                }
-        print x
+            'product': 'hh natural gas futures',
+            'twelve': round(tw,3),
+            'twentyFour': round(tf, 3)
+                   }
         print averages
-        save scrape data '''
-        myGetData = gasFutures(**myGas)
-        myGetData.save()
-        #self.stdout.write('\nbasis scrape complete.  Check log for more info')
-        '''
-        #save 12/24 month averages
+
         MyAverage = forwardStrips(**averages)
-        myAverage.save()
-       '''
+        MyAverage.save()
+
