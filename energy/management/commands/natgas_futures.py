@@ -59,10 +59,7 @@ class Command(BaseCommand):
         for k in x[:24]:tf+=float(k)
         tf/=24
 
-        print tw, tf
-
         # settles to estimate 12/24 month forward prices
-        #x = list(map(int, ast.literal_eval(x)))
 
         averages = {
             'product': 'hh natural gas futures',
