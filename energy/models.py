@@ -54,6 +54,7 @@ class gasStorage(models.Model):
 
 class forwardStrips(models.Model):
       key = models.AutoField(primary_key=True)
+      date = models.DateTimeField('Date')
       product = models.CharField(max_length=30)
       twelve = models.DecimalField(max_digits=4, decimal_places=3)
       twentyFour = models.DecimalField(max_digits=4, decimal_places=3)

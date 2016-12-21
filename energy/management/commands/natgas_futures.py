@@ -18,7 +18,7 @@ class Command(BaseCommand):
         import urllib2
 
         self.stdout.write('\nscraping started at %s' %stamp)
-        logging.info('starting scrape on %s', stamp)
+         #logging.info('starting scrape on %s', stamp)
         page = urllib2.Request('http://www.cmegroup.com/trading/energy/natural-gas/natural-gas_quotes_settlements_futures.html', headers = {'User-Agent': 'Mozilla/5.0'})
         cmeHtml = urllib2.urlopen(page).read()
         soup = BeautifulSoup(cmeHtml, "html.parser")
@@ -50,8 +50,8 @@ class Command(BaseCommand):
             myGetData.save()
 
             #debug
-            logging.info(myGas)
-        # print x
+            #logging.info(myGas)
+            #print x
         tw=0
         tf=0
         for i in x[:12]:tw += float(i)
@@ -63,10 +63,11 @@ class Command(BaseCommand):
 
         averages = {
             'product': 'hh natural gas futures',
+            'date': stamp,
             'twelve': round(tw,3),
             'twentyFour': round(tf, 3)
-                   }
-        print averages
+       #debug            }
+       #print averages
 
         MyAverage = forwardStrips(**averages)
         MyAverage.save()
